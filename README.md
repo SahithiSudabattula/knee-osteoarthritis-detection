@@ -20,7 +20,7 @@ A deep learning solution using Vision Transformer (ViT) and CNN to classify the 
 - Result plots
 
 ## 👩‍💻 Author
-[Sahithi Sudabattula]((https://www.linkedin.com/in/sahithisudabattula/))
+[Sahithi Sudabattula](https://www.linkedin.com/in/sahithisudabattula/)
 
 # Knee Osteoarthritis Detection
 
